@@ -1,1 +1,2 @@
-Insert a description of your plugin here, with any notes, etc. about using it.
+Depends on yshi.games.greed, available at
+https://github.com/infinityb/yshi.games.greed
